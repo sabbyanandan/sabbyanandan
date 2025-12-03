@@ -1,8 +1,8 @@
 # Sabby Anandan
 
-Building stealth legal-tech startup. Fractional product executive for Intelligence Community startups.
+Building legal-tech startup. Fractional product executive for Intelligence Community startups.
 
-Twenty years building developer tools, developer experiences, platforms, and production systems across enterprise and Bitcoin ecosystem. Co-founded 8090.ai. Shipped AI-native products with measurable business outcomes.
+Twenty years building developer tools, developer experiences, platforms, and production systems across enterprise and Bitcoin ecosystem. Co-founded [8090.ai](https://8090.ai). Shipped AI-native products with measurable business outcomes.
 
 Building and shipping is the only game. Production systems with provenance, evals, and resilience.
 
