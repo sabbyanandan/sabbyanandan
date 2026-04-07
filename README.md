@@ -1,9 +1,9 @@
 # Sabby Anandan
 
-Building legal-tech startup. Fractional product executive for Intelligence Community startups.
+I partner with early-stage companies during the hardest stretches of building. My work spans product, design, engineering, brand, and operations. The seams between those functions are where most companies stall, and that is exactly where I focus.
 
-Twenty years building developer tools, developer experiences, platforms, and production systems across enterprise and Bitcoin ecosystem. Co-founded [8090.ai](https://8090.ai). Shipped AI-native products with measurable business outcomes.
+Twenty years across developer platforms, open source ecosystems, and high-stakes production systems in enterprise, defense, intelligence, and crypto. Co-founded [8090.ai](https://8090.ai).
 
-Building and shipping is the only game. Production systems with provenance, evals, and resilience.
+When I leave, the work has to stand on its own.
 
 [LinkedIn](https://linkedin.com/in/sabbyanandan) · [X](https://x.com/sabbyanandan) · Menlo Park, CA
